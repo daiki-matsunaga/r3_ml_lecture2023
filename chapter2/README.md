@@ -2,3 +2,4 @@
 - Open 2.1B_leastsquares.ipynb: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/daiki-matsunaga/r3_ml_lecture2022/blob/main/chapter2/2.1B_leastsquares.ipynb)
 - Open 2.2_gradientDescent.ipynb: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/daiki-matsunaga/r3_ml_lecture2022/blob/main/chapter2/2.2_gradientDescent.ipynb)
 - Open 2.2B_gradientDescent.ipynb: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/daiki-matsunaga/r3_ml_lecture2022/blob/main/chapter2/2.2B_gradientDescent.ipynb)
+- Open 2.3_toyNeuralNetwork.ipynb: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/daiki-matsunaga/r3_ml_lecture2022/blob/main/chapter2/2.3_toyNeuralNetwork.ipynb)
