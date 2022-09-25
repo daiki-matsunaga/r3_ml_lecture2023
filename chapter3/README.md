@@ -1,0 +1,3 @@
+- Open 3.1_zeroHiddenLayer.ipynb: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/daiki-matsunaga/r3_ml_lecture2022/blob/main/chapter3/3.1_zeroHiddenLayer.ipynb)
+- Open 3.2_oneHiddenLayer.ipynb: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/daiki-matsunaga/r3_ml_lecture2022/blob/main/chapter3/3.2_oneHiddenLayer.ipynb)
+- Open 3.3_twoHiddenLayer.ipynb: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/daiki-matsunaga/r3_ml_lecture2022/blob/main/chapter3/3.3_twoHiddenLayer.ipynb)
